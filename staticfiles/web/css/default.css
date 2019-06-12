@@ -1,0 +1,36 @@
+body{
+  font-family: 'Permanent Marker', cursive;
+}
+
+.header{
+  font-family: 'Permanent Marker', cursive;
+  text-align: center;
+}
+
+.header h1{
+  font-size: 110px;
+}
+
+.header h3{
+  font-size: 70px;
+}
+
+#sign-up-btn{
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+}
+
+.entry-btn{
+  width: 100px;
+  margin: 10px;
+  font-family: 'Permanent Marker', cursive;
+  font-size: 50px;
+}
+
+#enter_reps{
+  width: 75px;
+}
+
+#save-btn{
+  width: 300px;
+}
